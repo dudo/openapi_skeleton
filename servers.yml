@@ -1,0 +1,4 @@
+# https://swagger.io/docs/specification/api-host-and-base-path/
+
+servers:
+  - url: http://petstore.swagger.io/api
