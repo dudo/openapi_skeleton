@@ -1,0 +1,10 @@
+components:
+  responses:
+    Success:
+      description: Ok
+
+    Created:
+      description: Created
+
+    NoContent:
+      description: No content
